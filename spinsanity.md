@@ -12,7 +12,7 @@ ____
 
 **Date: July 2015 - August 2016**
 
-Spinsanity was my very first professional project, a game made started when I was sixteen, published just after my eighteenth birthday. An arcade game for Android, it was the first time I had ever developed on any other platform than PC, and learning about the Android development environment and optimising a game for release on a mobile device were both results of long hours of research. They were also jsut two of the many skills I learned over the course of Spinsanity's development.
+Spinsanity was my very first professional project, a game  started when I was sixteen, published just after my eighteenth birthday. An arcade game for Android, it was the first time I had ever developed on any other platform than PC, and learning about the Android development environment and optimising a game for release on a mobile device were both results of long hours of research. They were also jsut two of the many skills I learned over the course of Spinsanity's development.
 
 The game itself is a fast-pacted, one finger arcade game, where the playr pilots a ship constantly spinning. Originally released for 99p with a free version with ads accompanying it, I later changed my mind and released one version, for free, no strings attached.
 

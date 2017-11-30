@@ -1,4 +1,4 @@
-[Portfolio](index.md) | [Blokkade](#)
+[Portfolio](index.md) | [About](about.md)
 
 # Blokkade
 

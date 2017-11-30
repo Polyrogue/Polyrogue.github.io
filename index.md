@@ -1,4 +1,5 @@
 [Portfolio](index.md) | [About](about.md)
+____
 
 # Portfolio
 ____
@@ -19,7 +20,7 @@ ____
 [![spinsanity cover](https://cdn.discordapp.com/attachments/385469825750663169/385469952502792203/spinsanity.png)]
 *A difficult arcade game released for Android mobile devices on the Play Store, released in the Summer of 2016.*
 
-_____
+____
 
 ### [Ludum Dare Entries](ludum.md)
 [![ludum dare cover](https://cdn.discordapp.com/attachments/385469825750663169/385469989345558529/ludum_dare_2.png)]

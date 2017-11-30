@@ -6,7 +6,7 @@ ____
 ____
 
 ## [Blokkade](blokkade.md)
-![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/385469936203726849/blokkade.png)
+[![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/385469936203726849/blokkade.png)](blokkade.html)
 *A 3D Android Arcade game I developed over the course of a month in the Summer of 2017, released onto the Play Store.*
 
 ____
@@ -18,11 +18,11 @@ ____
 ____
 
 ## [Spinsanity](spinsanity.md)
-![spinsanity cover](https://cdn.discordapp.com/attachments/385469825750663169/385469952502792203/spinsanity.png)
+[![spinsanity cover](https://cdn.discordapp.com/attachments/385469825750663169/385469952502792203/spinsanity.png)](spinsanity.html)
 *A difficult arcade game released for Android mobile devices on the Play Store, released in the Summer of 2016.*
 
 ____
 
 ## [Ludum Dare Entries](ludum.md)
-![ludum dare cover](https://cdn.discordapp.com/attachments/385469825750663169/385469989345558529/ludum_dare_2.png)
+[![ludum dare cover](https://cdn.discordapp.com/attachments/385469825750663169/385469989345558529/ludum_dare_2.png)](ludum.html)
 *A collection of nine (and counting) small games, developed in 72 hours for the Ludum Dare game jam.*

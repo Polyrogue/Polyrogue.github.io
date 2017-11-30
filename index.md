@@ -12,7 +12,7 @@ ____
 ____
 
 ## [Dungeon Generator](dungeon.md)
-![dungeon cover](https://media.discordapp.net/attachments/385469825750663169/385475330363621376/dungeon2.png?width=901&height=676)
+[![dungeon cover](https://media.discordapp.net/attachments/385469825750663169/385475330363621376/dungeon2.png?width=901&height=676)](dungeon.md)
 *An in-browser Javascript application for developing D&D and Roll20 dungeon templates.*
 
 ____

@@ -1,4 +1,4 @@
-#### [Portfolio](#)
+Portfolio | About
 
 # Welcome
 My name is Taha Nasir, I am currently a second year Computer Science student at Goldsmiths University of London.

@@ -1,5 +1,7 @@
 [Portfolio](index.md) | [About](about.md)
 
+____
+
 # Blokkade
 
 ![Blokkade cover](https://media.discordapp.net/attachments/385469825750663169/385469936203726849/blokkade.png?width=901&height=676)

@@ -23,6 +23,6 @@ A more recent entry earned 24th "most fun".
 
 The games are all rated and reviewed by other developers, and several have made livestreams or videos playing and praising my entries.
 
-The games are still avaliable to be played on the old Ludum Dare webite and the new one.
+The games are still avaliable to be played on the [old Ludum Dare webite](http://ludumdare.com/compo/author/pickensincorporated/) and the [new one](https://ldjam.com/users/pickens-inc/).
 
 ![praise](https://cdn.discordapp.com/attachments/385469825750663169/385841444201562113/ludum_dare_games.png)

@@ -19,3 +19,5 @@ I also learned a great deal about 3D space and 3D manipulation.
 Some revenue is being earned from it, but I spent many hours ensuring the best way to make the monetisation as unintrusive as physically possible - the main goal was just to make the game fun. In the end, the game has received numerous positive reviews, and has been cited as "fun" and "addictive".
 
 ![reviews](https://cdn.discordapp.com/attachments/385469825750663169/385815448228331531/blokkade_reviews.png)
+
+The game is available for free on the [Play Store](https://play.google.com/store/apps/details?id=com.polyrogue.blokkade&hl=en).

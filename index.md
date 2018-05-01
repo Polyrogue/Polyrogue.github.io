@@ -13,7 +13,7 @@ ____
 ____
 
 ## [Blokkade](blokkade.md)
-[![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](blokkade.html)
+[![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/385469936203726849/blokkade.png)](blokkade.html)
 *A 3D Android Arcade game I developed over the course of a month in the Summer of 2017, released onto the Play Store.*
 
 ____

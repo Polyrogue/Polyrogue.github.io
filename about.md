@@ -12,4 +12,6 @@ I'm always available to contact, and am greatly interested in finding a paid pla
 
 Email: tahanasir@mail.com
 
+Github: [Polyrogue](https://github.com/Polyrogue/)
+
 CV available on request

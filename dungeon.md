@@ -21,3 +21,5 @@ Dungeons & Dragons is a tabletop pencil and paper roleplaying game, but is often
 The program itself is developed in p5.js, a library for javascript. The major benefit of using the generator is that the images can be sized specifically to fit the grid on Roll20.net, an online application and the most popular way of playing D&D online, which itself lacks any dungeon generation capability:
 
 The live version, which is still regularly used, can be found on [polyrogue.com](http://polyrogue.com/dungeon)
+
+The git repository can be found [here](https://github.com/Polyrogue/dungeon).

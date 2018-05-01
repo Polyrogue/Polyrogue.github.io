@@ -3,10 +3,17 @@
 ____
 
 # Portfolio
+
+____
+
+## [LATEST COLLABORATED PROJECT: Eldritch Engines - Ludum Dare 41](ld41.md)
+[![ld41 cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](ld41.html)
+*A unique twist on the theme of "combining two incompatible genres", I worked in a team of three to develop this Lovecraftian Racing game.*
+
 ____
 
 ## [Blokkade](blokkade.md)
-[![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/385469936203726849/blokkade.png)](blokkade.html)
+[![blokkade cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](blokkade.html)
 *A 3D Android Arcade game I developed over the course of a month in the Summer of 2017, released onto the Play Store.*
 
 ____

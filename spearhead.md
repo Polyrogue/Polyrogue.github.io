@@ -24,4 +24,4 @@ The game itself is a fast-paced synth-pop style arcade game, requiring you to dr
 
 Spearhead is available for free on [Google Play](https://play.google.com/store/apps/details?id=com.polyrogue.spearhead).
 
-The repo is available [here].(https://github.com/Polyrogue/spearhead/tree/master/Assets)
+The repo is available [here.](https://github.com/Polyrogue/spearhead/tree/master/Assets)

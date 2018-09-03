@@ -6,13 +6,20 @@ ____
 
 ____
 
-## [Latest work: Potion Seller - Ludum Dare 42](ld41.md)
-[![ld41 cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](ld41.html)
+## [Latest Release: Spearhead](spearhead.md)
+[![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](ld41.html)
+*WIP*
+
+
+____
+
+## [Notable LD: Potion Seller - Ludum Dare 42](ld42.md)
+[![ld42 cover](https://cdn.discordapp.com/attachments/385469825750663169/486203389336616972/Portfolio_ps.png)](ld41.html)
 *WIP*
 
 ____
 
-## [Notable LD: Ludum Dare 41](ld41.md)
+## [Notable LD: Eldritch Engines - Ludum Dare 41](ld41.md)
 [![ld41 cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](ld41.html)
 *A unique twist on the theme of "combining two incompatible genres", I worked in a team of three to develop this Lovecraftian Racing game.*
 

@@ -7,14 +7,14 @@ ____
 ____
 
 ## [Latest Release: Spearhead](spearhead.md)
-[![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](ld41.html)
+[![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](spearhead.html)
 *WIP*
 
 
 ____
 
 ## [Notable LD: Potion Seller - Ludum Dare 42](ld42.md)
-[![ld42 cover](https://cdn.discordapp.com/attachments/385469825750663169/486203389336616972/Portfolio_ps.png)](ld41.html)
+[![ld42 cover](https://cdn.discordapp.com/attachments/385469825750663169/486203389336616972/Portfolio_ps.png)](ld42.html)
 *WIP*
 
 ____

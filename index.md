@@ -8,20 +8,20 @@ ____
 
 ## [Latest Release: Spearhead](spearhead.md)
 [![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](spearhead.html)
-*WIP*
+*My newest released, Spearhead is a fast-paced arcade with a charming synth-pop aestheic. Compelling and polished, released Google Play.*
 
 
 ____
 
 ## [Notable LD: Potion Seller - Ludum Dare 42](ld42.md)
 [![ld42 cover](https://cdn.discordapp.com/attachments/385469825750663169/486203389336616972/Portfolio_ps.png)](ld42.html)
-*WIP*
+*My best Ludum Dare to date, I once again worked with a friend to develop this relaxing yet compelling potion crafting game.*
 
 ____
 
 ## [Notable LD: Eldritch Engines - Ludum Dare 41](ld41.md)
 [![ld41 cover](https://cdn.discordapp.com/attachments/385469825750663169/440978357337849876/portfolio_ee.png)](ld41.html)
-*A unique twist on the theme of "combining two incompatible genres", I worked in a team of three to develop this Lovecraftian Racing game.*
+*A unique twist on the theme of "combining two incompatible genres", I worked in a team of three to develop this Lovecraftian Kart Racer.*
 
 ____
 

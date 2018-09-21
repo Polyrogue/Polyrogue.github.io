@@ -8,7 +8,7 @@ ____
 
 ## [Latest Release: Spearhead](spearhead.md)
 [![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](spearhead.html)
-*My newest released, Spearhead is a fast-paced arcade with a charming synth-pop aestheic. Compelling and polished, released Google Play.*
+*My newest release, Spearhead is a fast-paced arcade with a charming synth-pop aestheic. Compelling and polished, released Google Play.*
 
 
 ____

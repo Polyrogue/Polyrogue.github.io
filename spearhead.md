@@ -14,7 +14,7 @@ ____
 
 Spearhead was a game I made inspired by one of my Ludum Dare entries called Igknight. I wanted to make a game on mobile about throwing spears, and I knew I wanted it to be of a synth-pop aesthetic. My knowledge with Unity since making Blokkade had vastly improved, and the game is far more complex, efficient and smooth.
 
-As is often the case, the main functionality had been completed within three weeks. However, the graphics, sound and music needed doing, and I wanted it to look better than I could draw. I could not have completed this project without the offered help of my university friends. Credited below, I then began to work closely with [Aileen Tan]() as she drew the art for the game, and Phoebe Izzard Davies for the audio. The music came toward the end, exactly how I envisioned it, made by Aileen's sister, [Quincy Tan](). Working and leading a team of that size, even for simple assets, was a brilliant experience, and I am very grateful for their help.
+As is often the case, the main functionality had been completed within three weeks. However, the graphics, sound and music needed doing, and I wanted it to look better than I could draw. I could not have completed this project without the offered help of my university friends. Credited below, I then began to work closely with [Aileen Tan](https://instagram.com/grassgrows/) as she drew the art for the game, and Phoebe Izzard Davies for the audio. The music came toward the end, exactly how I envisioned it, made by [Quincy Tan](https://www.instagram.com/marcereyn/). Working and leading a team of that size, even for simple assets, was a brilliant experience, and I am very grateful for their help.
 
 Screenshot            |  Credits
 :-------------------------:|:-------------------------:

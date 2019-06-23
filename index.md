@@ -2,7 +2,7 @@
 
 ____
 
-# Portfolio
+# Portfolio - Click on each image for more details/videos
 
 ____
 

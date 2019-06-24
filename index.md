@@ -6,6 +6,12 @@ ____
 
 ____
 
+## [Post-Jam Release: Oath of Balance](oob.md)
+[![oob cover](https://cdn.discordapp.com/attachments/385469825750663169/592421807810936833/portfolio_oob.png](oob.html)
+*My experimental first person ARPG from December's Ludum Dare has now received a complete overhaul, and is much closer to my original vision for the game.*
+
+____
+
 ## [Latest Release: Spearhead](spearhead.md)
 [![spearhead cover](https://cdn.discordapp.com/attachments/385469825750663169/486203566420262932/portfolio_spearhead.png)](spearhead.html)
 *My newest release, Spearhead is a fast-paced arcade with a charming synth-pop aestheic. Compelling and polished, released Google Play.*

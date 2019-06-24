@@ -7,7 +7,7 @@ ____
 ____
 
 ## [Post-Jam Release: Oath of Balance](oob.md)
-[![oob cover](https://cdn.discordapp.com/attachments/385469825750663169/592421807810936833/portfolio_oob.png](oob.html)
+[![oob cover](https://cdn.discordapp.com/attachments/385469825750663169/592421807810936833/portfolio_oob.png)](oob.html)
 *My experimental first person ARPG from December's Ludum Dare has now received a complete overhaul, and is much closer to my original vision for the game.*
 
 ____

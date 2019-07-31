@@ -6,6 +6,12 @@ ____
 
 ____
 
+## [Neural Knight: Self-Playing For Honor Neural Network](https://www.youtube.com/watch?v=KWePzuZZ9WU&feature=youtu.be)
+[![nk cover](https://cdn.discordapp.com/attachments/385469825750663169/606226391649746944/portfolio_nk.png)](https://www.youtube.com/watch?v=KWePzuZZ9WU&feature=youtu.be)
+*For my final year project, I spent the first half of the year making a neural network that learned to play my favourite game, For Honor! The project earned me a First Class. Extremely proud and happy to finally present this video about my project. The paper is also available to read.*
+
+____
+
 ## [Post-Jam Release: Oath of Balance](oob.md)
 [![oob cover](https://cdn.discordapp.com/attachments/385469825750663169/592421807810936833/portfolio_oob.png)](oob.html)
 *My experimental first person ARPG from December's Ludum Dare has now received a complete overhaul, and is much closer to my original vision for the game.*

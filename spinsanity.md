@@ -19,3 +19,5 @@ The game itself is a fast-pacted, one finger arcade game, where the playr pilots
 ![banner](https://cdn.discordapp.com/attachments/385469825750663169/385833319247380480/spinsanity_banner.png)
 
 The game is available for free on the [Play Store](https://play.google.com/store/apps/details?id=com.polyrogue.spinsanity&hl=en).
+
+New info here
